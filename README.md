@@ -31,6 +31,5 @@ The dataset is provided as a CSV file with the following columns:
 
 ## Usage Notes
 
-- Financial losses are rounded to nearest dollar
-- URLs point to original security reports
+- URLs point to original sources
 - Empty fields are marked as "N/A"
