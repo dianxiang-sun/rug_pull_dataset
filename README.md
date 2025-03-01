@@ -1,6 +1,6 @@
 # Rug Pull Dataset for DeFi Security Research
 
-This dataset contains 2,360 validated rug pull incidents from Ethereum and BSC chains, documented between 2020 and 2023. The dataset aims to support research in DeFi security, particularly in rug pull detection and prevention.
+This dataset contains 2,391 validated rug pull incidents from Ethereum and BSC chains, documented between 2020 and 2023. The dataset aims to support research in DeFi security, particularly in rug pull detection and prevention.
 
 ## Dataset Structure
 
